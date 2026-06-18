@@ -6,4 +6,5 @@ https://gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d
 
 ```
 gh skill install f4ah6o/japanese-technical-writing-standards japanese-tech-writing
+gh skill install f4ah6o/japanese-technical-writing-standards argument-gap-edit
 ```
